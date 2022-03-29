@@ -1,0 +1,396 @@
+ConsultantMainSpecialtyCode,Specialty,SpecialtyGroup,CriticalCare
+100,General Surgery,Acute and general surgery,0
+10010,RENAL SURGERY,Surgical subspecialty,0
+10060,VASCULAR SURGERY,Surgical subspecialty,0
+10061,Endoscopy (General Surgery),Procedural,0
+10066,Endoscopy Bowel Screening (General Surg),Procedural,0
+10067,General Surgery (Hernia),Procedural,0
+101,Urology,Acute and general surgery,0
+10106,PAEDIATRIC UROLOGY,Paediatric surgical subspecialty,0
+10130,Andrology,Medical subspecialty,0
+102,Transplantation Surgery,Surgical subspecialty,0
+10221,Liver Transplantation,Procedural,0
+10222,Renal Transplantation,Procedural,0
+10223,Simultaneous Pancreas and Kidney Transpl,Procedural,0
+10224,Pancreas Transplantation,Procedural,0
+10225,Islet Cell Transplantation,Procedural,0
+10226,Intestinal Transplantation,Procedural,0
+10240,Liver Transplant,Procedural,0
+10246,Renal Transplant,Procedural,0
+103,Breast Surgery,Surgical subspecialty,0
+104,Colorectal Surgery,Surgical subspecialty,0
+10466,Endoscopy Bowel Screening (Col Surg),Procedural,0
+105,Hepatobiliary & Pancreatic Surgery,Surgical subspecialty,0
+10539,Liver Surgery,Procedural,0
+106,Upper Gastrointestinal Surgery,Surgical subspecialty,0
+107,Vascular Surgery,Surgical subspecialty,0
+108,Spinal Surgery Service,Surgical subspecialty,0
+110,Trauma & Orthopaedics,Surgical subspecialty,0
+11006,PAEDIATRIC T & O,Paediatric acute and general surgery,0
+11021,NULL,none,0
+11022,NULL,none,0
+11023,SCOLIOSIS,Diagnostic,0
+11024,NULL,none,0
+11025,NULL,none,0
+11026,NULL,none,0
+11027,NULL,none,0
+11028,NULL,none,0
+11029,NULL,none,0
+11030,NULL,none,0
+11031,NULL,none,0
+11032,NULL,none,0
+11033,NULL,none,0
+11034,NULL,none,0
+120,ENT,Surgical subspecialty,0
+12005,ENT Craniofacial,Surgical subspecialty,0
+12033,Cochlear Implant,Procedural,0
+12048,GOTHENBURG/BHAR,Procedural,0
+12075,ENT Craniofacial PCT,Procedural,0
+12085,ENT Craniofacial NSCT,Procedural,0
+130,Ophthalmology,Surgical subspecialty,0
+13001,NULL,none,0
+13002,NULL,none,0
+13003,Optometry,Allied health,0
+13005,Ophthalmology Craniofacial,Surgical subspecialty,0
+13013,NULL,none,0
+13014,Ocular Oncology,Surgical subspecialty,0
+13020,Retinoblastoma,Diagnostic,0
+13044,Neuro-Ophthalmology,Medical subspecialty,0
+13075,Ophthalmology Craniofacial PCT,Surgical subspecialty,0
+13085,Ophthalmology Craniofacial NSCT,Surgical subspecialty,0
+140,Oral Surgery,Surgical subspecialty,0
+14005,Oral Surgery Craniofacial,Surgical subspecialty,0
+14075,Oral Surgery Craniofacial PCT,Surgical subspecialty,0
+14085,Oral Surgery Craniofacial NSCT,Surgical subspecialty,0
+141,Restorative Dentistry,Surgical subspecialty,0
+142,Paediatric Dentistry,Surgical subspecialty,0
+143,Orthodontics,Surgical subspecialty,0
+144,Maxillo-Facial Surgery,Surgical subspecialty,0
+14405,Maxillo Facial Surgery Craniofacial,Surgical subspecialty,0
+14475,Maxillo Facial Surgery Craniofacial PCT,Surgical subspecialty,0
+14485,Maxillo Facial Surgery Craniofacial NSCT,Surgical subspecialty,0
+145,Oral Maxillo Facial Surgery,Surgical subspecialty,0
+146,Endodontics,Surgical subspecialty,0
+147,Periodontics,Surgical subspecialty,0
+148,Prosthodontics,Surgical subspecialty,0
+149,Surgical Dentistry,Surgical subspecialty,0
+150,Neurosurgery,Surgical subspecialty,0
+15001,NULL,none,0
+15005,Neurosurgery Craniofacial,unreported,0
+15075,Neurosurgery Craniofacial PCT,Surgical subspecialty,0
+15085,Neurosurgery Craniofacial NSCT,Surgical subspecialty,0
+160,Plastic Surgery,Surgical subspecialty,0
+16005,Plastic Surgery Craniofacial,Surgical subspecialty,0
+16056,NULL,none,0
+16075,Plastic Surgery Craniofacial PCT,Surgical subspecialty,0
+16085,Plastic Surgery Craniofacial NSCT,Surgical subspecialty,0
+161,Burns Care,Surgical subspecialty,0
+170,Cardiothoracic Surgery,Surgical subspecialty,0
+17006,PAEDIATRIC CARDIOTHORACIC SURGERY,Paediatric surgical subspecialty,0
+171,Paediatric Surgery,Paediatric surgery,0
+17111,Neonatal Surgery,Paediatric surgical subspecialty,0
+172,Cardiac Surgery,Surgical subspecialty,0
+173,Thoracic Surgery,Surgical subspecialty,0
+174,Cardiothoracic Transplantation,Surgical subspecialty,0
+180,Accident and Emergency,Acute and general medicine,0
+190,Anaesthetics,Acute and general medicine,0
+19017,ITU ANAESTHETICS,Acute and general medicine,1
+19029,Anaesthetics Treatment,Acute and general medicine,0
+191,Pain Management,Acute and general medicine,0
+192,Critical Care Medicine,Acute and general medicine,1
+200,GENERAL MEDICINE,Acute and general medicine,0
+203,NULL,none,0
+211,Paediatric Urology,Paediatric surgery,0
+212,Paediatric Transplantation Surgery,Paediatric surgery,0
+213,Paediatric Gastrointestinal Surgery,Paediatric surgery,0
+214,Paediatric Trauma and Orthopaedics,Paediatric surgery,0
+215,Paediatric Ear Nose and Throat,Paediatric surgery,0
+216,Paediatric Ophthalmology,Paediatric surgery,0
+217,Paediatric Maxillo-Facial Surgery,Paediatric surgery,0
+218,Paediatric Neurosurgery,Paediatric surgery,0
+219,Paediatric Plastic Surgery,Paediatric surgery,0
+220,Paediatric Burns Care,Paediatric surgery,0
+221,Paediatric Cardiac Surgery,Paediatric surgery,0
+222,Paediatric Thoracic Surgery,Paediatric surgery,0
+241,Paediatric Pain Management,Paediatric medical subspecialty,0
+242,Paediatric Intensive Care,Paediatric acute and general medicine,0
+251,Paediatric Gastroenterology,Paediatric medical subspecialty,0
+252,Paediatric Endocrinology,Paediatric medical subspecialty,0
+253,Paediatric Clinical Haematology,Paediatric medical subspecialty,0
+254,Paediatric Audiological Medicine,Paediatric medical subspecialty,0
+255,Paediatric Clinical Immunology and Aller,Paediatric medical subspecialty,0
+256,Paediatric Infectious Diseases,Paediatric medical subspecialty,0
+257,Paediatric Dermatology,Paediatric medical subspecialty,0
+258,Paediatric Respiratory Medicine,Paediatric medical subspecialty,0
+259,Paediatric Nephrology,Paediatric medical subspecialty,0
+25945,Paediatric Dialysis,Paediatric medical subspecialty,0
+260,Paediatric Medical Oncology,Paediatric medical subspecialty,0
+261,Paediatric Metabolic Disease,Paediatric medical subspecialty,0
+262,Paediatric Rheumatology,Paediatric medical subspecialty,0
+263,Paediatric Diabetic Medicine,Paediatric medical subspecialty,0
+264,Paediatric Cystic Fibrosis,Paediatric medical subspecialty,0
+280,Paediatric Interventional Radiology,Paediatric surgery,0
+290,Community Paediatrics,Paediatric medical subspecialty,0
+291,Paediatric Neuro-Disability,Paediatric medical subspecialty,0
+300,General Medicine,Acute and general medicine,0
+30011,NULL,none,0
+30012,MEDICINE DIABETES,Medical subspecialty,0
+30014,General Medicine Chest Diseases,Acute and general medicine,0
+30015,MEDICINE GASTRO,Medical subspecialty,0
+30016,GENERAL MEDICINE (CARDIAC),Acute and general medicine,0
+30017,ITU GENERAL MEDICINE,Acute and general medicine,1
+30022,NULL,none,0
+30042,NULL,none,0
+30043,Metabolic Unit,Medical subspecialty,0
+30045,NULL,none,0
+30046,NULL,none,0
+30053,NULL,none,0
+30061,Endoscopy (General Medicine),Procedural,0
+301,Gastroenterology,Medical subspecialty,0
+30106,NULL,none,0
+30107,NULL,none,0
+30161,Endoscopy (Gastroenterology),Procedural,0
+30162,Endoscopy Open Access,Procedural,0
+30166,Endoscopy Bowel Screening (Gastro),Procedural,0
+302,Endocrinology,Medical subspecialty,0
+30206,NULL,none,0
+303,Clinical Haematology,Medical subspecialty,0
+30306,NULL,none,0
+30307,Haem Oncology,Medical subspecialty,0
+30308,NULL,none,0
+30335,Anderson-Fabry's Disease,Diagnostic,0
+30337,Gaucher's Disease,Diagnostic,0
+30341,Lysosomal Storage Disorder,Diagnostic,0
+30345,NULL,none,0
+30346,NULL,none,0
+304,Clinical Physiology,Medical subspecialty,0
+305,Clinical Pharmacology,Medical subspecialty,0
+306,Hepatology,Medical subspecialty,0
+30627,Alcohol Services,Allied health,0
+307,Diabetic Medicine,Medical subspecialty,0
+30701,Islet Transplantation,Procedural,0
+308,Blood & Marrow Transplantation,Medical subspecialty,0
+309,Haemophilia,Medical subspecialty,0
+310,Audiological Medicine,Medical subspecialty,0
+311,Clinical Genetics,Medical subspecialty,0
+312,Clinical Cytogenetics & Molecular Genetics,Medical subspecialty,0
+313,Clinical Immunology and Allergy,Medical subspecialty,0
+314,Rehabilitation,Medical subspecialty,0
+31420,NULL,none,0
+315,Palliative Medicine,Medical subspecialty,0
+316,Clinical Immunology,Medical subspecialty,0
+317,Allergy,Medical subspecialty,0
+318,Intermediate Care,Medical subspecialty,0
+319,Respite Care,Medical subspecialty,0
+320,Cardiology,Medical subspecialty,0
+32006,NULL,none,0
+32031,CardiologyTBC,Medical subspecialty,0
+321,Paediatric Cardiology,Paediatric medical subspecialty,0
+322,Clinical Microbiology,Medical subspecialty,0
+323,Spinal Injuries,Medical subspecialty,0
+324,Anticoagulant Service,Medical subspecialty,0
+325,Sport and Exercise Medicine,Medical subspecialty,0
+326,Acute Internal Medicine,Acute and general medicine,0
+327,Cardiac Rehabilitation,Medical subspecialty,0
+328,Stroke Medicine,Medical subspecialty,0
+329,Transient Ischaemic Attack,Medical subspecialty,0
+330,Dermatology,Medical subspecialty,0
+33034,NULL,none,0
+33080,NULL,none,0
+340,Respiratory Medicine,Medical subspecialty,0
+34006,NULL,none,0
+34021,Cystic Fibrosis,Diagnostic,0
+34023,Tuberculosis,Diagnostic,0
+341,Respiratory Physiology,Medical subspecialty,0
+342,Programmed Pulmonary Rehabilitation,Medical subspecialty,0
+343,Adult Cystic Fibrosis,Medical subspecialty,0
+350,Infectious Diseases,Medical subspecialty,0
+35008,Infection and Immunity,Medical subspecialty,0
+35037,NULL,none,0
+352,Tropical Medicine,Medical subspecialty,0
+360,Genito-Urinary Medicine,Medical subspecialty,0
+361,Nephrology,Medical subspecialty,0
+36102,CAPD,Medical subspecialty,0
+36103,Dialysis - Home,Medical subspecialty,0
+36104,Dialysis - Unit,Medical subspecialty,0
+36112,NULL,none,0
+36120,Dialysis,Medical subspecialty,0
+36121,Renal Replacement Therapy (Planned),Medical subspecialty,0
+36122,Chronic Kidney Disease (Conservative),Medical subspecialty,0
+36123,Peritoneal Dialysis,Medical subspecialty,0
+36124,Chronic Kidney Disease,Medical subspecialty,0
+36134,Haemodialysis (Home),Medical subspecialty,0
+36135,Haemodialysis (Unit),Medical subspecialty,0
+36136,Renal Dialysis,Medical subspecialty,0
+370,Medical Oncology,Medical subspecialty,0
+37001,NULL,none,0
+37015,Oncology (Chemotherapy),Medical subspecialty,0
+37038,NULL,none,0
+371,Nuclear Medicine,Medical subspecialty,0
+400,Neurology,Medical subspecialty,0
+40009,Neurology Rehabilitation,Medical subspecialty,0
+40018,Parkinson's,Diagnostic,0
+401,Clinical Neuro-Physiology,Medical subspecialty,0
+410,Rheumatology,Medical subspecialty,0
+41009,NULL,none,0
+41028,Amyloidosis,Diagnostic,0
+420,Paediatrics,Paediatric medical subspecialty,0
+42005,Paediatric Craniofacial,Paediatric diagnostic,0
+42012,Paediatric Diabetes,Paediatric diagnostic,0
+42016,Paediatric Cystic Fibrosis,Paediatric diagnostic,0
+42020,NULL,none,0
+42039,NULL,none,0
+42040,NULL,none,0
+42044,NULL,none,0
+42047,NULL,none,0
+42075,Paediatric Craniofacial PCT,Paediatric surgical subspecialty,0
+42085,Paediatric Craniofacial NSCT,Paediatric surgical subspecialty,0
+421,Paediatric Neurology,Paediatric medical subspecialty,0
+422,Neonatology,Paediatric medical subspecialty,0
+42209,Neonatal High Dependency,Paediatric acute and general medicine,0
+42210,Neonatal Intensive Care,Paediatric acute and general medicine,0
+42221,Special Care Baby Unit,Paediatric acute and general medicine,0
+424,Well Babies,Paediatric medical subspecialty,0
+430,Geriatric Medicine,Acute and general medicine,0
+43004,NULL,none,0
+43005,Geriatric Medicine Stroke,Medical subspecialty,0
+43052,Geriatric Medicine Elderly Acute,Medical subspecialty,0
+43053,Geriatric Medicine Elderly Rehabilitatio,Medical subspecialty,0
+43054,NULL,none,0
+43055,NULL,none,0
+450,Dental Medicine Specialties,Surgical subspecialty,0
+451,Special Care Dentistry,Surgical subspecialty,0
+460,Medical Ophthalmology,Medical subspecialty,0
+500,Obstetrics and Gynaecology,Obstetrics and gynaecology,0
+501,Obstetrics,Obstetrics and gynaecology,0
+50111,NULL,none,0
+50135,Obstetrics Fetal Maternal Medicine,Obstetrics and gynaecology,0
+50142,Obstetrics High Risk,Obstetrics and gynaecology,0
+50143,Obstetrics Rhesus Services,Obstetrics and gynaecology,0
+502,Gynaecology,Obstetrics and gynaecology,0
+50206,Gynaecology (Fertility),Obstetrics and gynaecology,0
+50232,Cervicography,Procedural,0
+50236,Family Planning,Obstetrics and gynaecology,0
+50238,Laser Surgery,Procedural,0
+50241,Gynaecology Infertility,Obstetrics and gynaecology,0
+50242,Menopause,Obstetrics and gynaecology,0
+50247,Termination,Obstetrics and gynaecology,0
+503,Gynaecological Oncology,Obstetrics and gynaecology,0
+50334,Colposcopy,Procedural,0
+504,Community Sexual and Reproductive Health,Medical subspecialty,0
+510,MENTAL ILLNESS,Medical subspecialty,0
+520,POSTNATAL CLINIC,Obstetrics and gynaecology,0
+560,Midwife Episode,Obstetrics and gynaecology,0
+56065,NULL,none,0
+56071,NULL,none,0
+56072,Midwife Episode Home Births Mothers,Obstetrics and gynaecology,0
+56073,Midwife Episode Home Births Babies,Obstetrics and gynaecology,0
+600,General Medical Practice,Acute and general medicine,0
+601,General Dental Practice,Surgical subspecialty,0
+610,MATERNITY FUNCTION,Obstetrics and gynaecology,0
+620,GENERAL PRACTICE (NOT MATERNITY),Acute and general medicine,0
+62004,NULL,none,0
+62034,NULL,none,0
+62040,GP Well Babies,Paediatric medical subspecialty,0
+62052,NULL,none,0
+62053,NULL,none,0
+62054,NULL,none,0
+62055,NULL,none,0
+62063,NULL,none,0
+650,Physiotherapy,Allied health,0
+651,Occupational Therapy,Allied health,0
+652,Speech and Language Therapists,Allied health,0
+653,Podiatry,Allied health,0
+654,Dietetics,Allied health,0
+655,Orthoptics,Allied health,0
+65505,Orthoptics Craniofacial,unreported,0
+65575,Orthoptics Craniofacial PCT,Allied health,0
+65585,Orthoptics Craniofacial NSCT,Allied health,0
+656,Clinical Psychology,Allied health,0
+65606,Paediatric Clinical Psychology,Paediatric allied health,0
+657,Prosthetics,Allied health,0
+658,Orthotics,Allied health,0
+659,Dramatherapy,Allied health,0
+660,Art Therapy,Allied health,0
+661,Music Therapy,Allied health,0
+662,Optometry,Allied health,0
+700,Learning Disability,Allied health,0
+710,Adult Mental Illness,Medical subspecialty,0
+71049,NULL,none,0
+71050,NULL,none,0
+711,Child and Adolescent Psychiatry,Paediatric medical subspecialty,0
+71151,NULL,none,0
+71155,NULL,none,0
+71157,NULL,none,0
+71158,NULL,none,0
+71159,NULL,none,0
+712,Forensic Psychiatry,Medical subspecialty,0
+713,Psychotherapy,Medical subspecialty,0
+715,Old Age Psychiatry,Medical subspecialty,0
+720,Eating Disorders,Medical subspecialty,0
+721,Addiction Services,Medical subspecialty,0
+722,Liaison Psychiatry,Medical subspecialty,0
+723,Psychiatric Intensive Care,Medical subspecialty,0
+724,Perinatal Psychiatry,Obstetrics and gynaecology,0
+800,Clinical Oncology (Radiotherapy),Medical subspecialty,0
+80001,Brachytherapy,Procedural,0
+80019,Radiotherapy Planning,Allied health,0
+80022,Teletherapy,Allied health,0
+80024,Unsealed Sources,Allied health,0
+810,Radiology,Medical subspecialty,0
+811,Interventional Radiology,Surgical subspecialty,0
+812,Diagnostic Radiography,Medical subspecialty,0
+820,General Pathology,Laboratory,0
+821,Blood Transfusion (Pathology),Laboratory,0
+822,Chemical Pathology,Laboratory,0
+823,Haematology (Pathology),Laboratory,0
+82307,NULL,unreported,0
+824,Histopathology,Laboratory,0
+830,Immunopathology,Laboratory,0
+831,Medical Microbiology and Virology,Laboratory,0
+832,NEUROPATHOLOGY,Laboratory,0
+833,Medical Microbiology,Laboratory,0
+834,Medical Virology,Laboratory,0
+840,Audiology,Allied health,0
+880,OCCUPATIONAL THERAPY,Allied health,0
+881,PHYSIOTHERAPY,Allied health,0
+882,SPEECH THERAPY,Allied health,0
+883,ECG,Allied health,0
+884,AUDIOLOGY,Allied health,0
+885,FAMILY PLANNING,Allied health,0
+886,PODIATRY,Allied health,0
+887,ORTHOPTICS,Allied health,0
+888,EEG,Allied health,0
+889,NEUROPSYCHOLOGY,Allied health,0
+890,DIETETICS,Allied health,0
+891,CLINICAL PSYCHOLOGY,Allied health,0
+892,NULL,none,0
+893,HEALTH VISITING,Allied health,0
+894,DISTRICT NURSING,Allied health,0
+896,COUNSELLING,Allied health,0
+897,OSTEOPATHY,Allied health,0
+900,Community Medicine,Allied health,0
+901,Occupational Medicine,Allied health,0
+902,Community Health Services Dental,Allied health,0
+903,Public Health Medicine,Medical subspecialty,0
+904,Public Health Dental,Medical subspecialty,0
+905,NULL,none,0
+950,Nursing Episode,Allied health,0
+960,Allied Health Professional Episode,Allied health,0
+971,Clinical Biochemistry,Laboratory,0
+972,Cytogenetics,Laboratory,0
+973,Haematology,Laboratory,0
+976,Haemophillia Lab,Laboratory,0
+977,Immunology,Laboratory,0
+978,Microbiology,Laboratory,0
+979,DNA Genetics,Laboratory,0
+980,Blood Bank,Laboratory,0
+981,Cellular Pathology,Laboratory,0
+982,Genetics Lab Tests,Laboratory,0
+983,Genetic Lab Tests (Cytol),Laboratory,0
+990,JOINT CONSULTANT CLINICS,Outpatient clinic,0
+996,Pharmacy,Allied health,0
+997,Labs - screening,Laboratory,0
+998,NULL,none,0
+999,Labs,Laboratory,0
+9999,Not Allocated,none,0
