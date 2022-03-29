@@ -6,4 +6,4 @@ Contents
 2. EHR measurement limits in adults - a list of values deemed to extreme to be compatible with an actual measurement, recommended that these are set to missing in analyses [EHR Measurement Limits - Adults.xlsx](EHR%20Measurement%20Limits%20-%20Adults.xlsx)
 
 Look-up tables
-1. Local subspecialties - specialty codes matched to specialties matched to specialty groups (local_subspecialties.csv)
+1. Local subspecialties - specialty codes matched to specialties matched to specialty groups [local_subspecialties.csv]
