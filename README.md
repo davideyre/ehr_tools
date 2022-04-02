@@ -7,3 +7,4 @@ Contents
 
 Look-up tables
 1. Local subspecialties - specialty codes matched to specialties matched to specialty groups [local_subspecialties.csv](local_subspecialties.csv)
+2. ICD-10 codes for primary diagnosis (needing revisions and confirmation for your own projects)
