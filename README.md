@@ -6,5 +6,6 @@ Contents
 2. EHR measurement limits in adults - a list of values deemed to extreme to be compatible with an actual measurement, recommended that these are set to missing in analyses [EHR Measurement Limits - Adults.xlsx](EHR%20Measurement%20Limits%20-%20Adults.xlsx)
 
 Look-up tables
-1. Local subspecialties - specialty codes matched to specialties matched to specialty groups [local_subspecialties.csv](local_subspecialties.csv)
+1. Local subspecialties - specialty codes matched to specialties matched to specialty groups [local_subspecialties_lookup.csv](local_subspecialties_lookup.csv)
 2. ICD-10 codes for primary diagnosis (needing revisions and confirmation for your own projects)
+3. ICD-10 codes to CCS codes - for identifying possible sources of infection [ccs_lookup.csv](ccs_lookup.csv)
