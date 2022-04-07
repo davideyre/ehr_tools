@@ -6,6 +6,12 @@ library(data.table)
 library(lubridate)
 library(comorbidity) # {Comorbidity} Package version: 1.0.0
 
+InpatientEpisodes <- fread("~/Data/Sepsis/IORD_SepsisResponseScore_29_20220106/InpatientEpisodes.csv")
+InpatientDiagnoses <- fread("~/Data/Sepsis/IORD_SepsisResponseScore_29_20220106/InpatientDiagnoses.csv")
+cultures <- fread(file = "~/Data/Sepsis/IORD_SepsisResponseScore_29_20220106/Micro.csv", 
+                  select = c("ClusterID", "AccessionNumber", "BatTestCode", "CollectionDateTime", "ReceiveDateTime", "BugCode", "BugName"),
+                  colClasses=c(ClusterID="character"))
+
 # Extract Episode info and match related DiagCode
 ID_EpisodeDate <- InpatientEpisodes[, .(ClusterID, EpisodeID, EpisodeStartDate, EpisodeEndDate, AdmissionDate)]
 ID_EpisodeDate <- unique(ID_EpisodeDate, by = c("EpisodeID"))
@@ -61,7 +67,7 @@ ID_AllEpisodeDiag <- ID_AllEpisodeDiag[!(DiagNumber == 1 & str_detect(DiagCode, 
 
 # Calculate Comorbidity Index
 ## Charlson
-com <- comorbidity::comorbidity(ID_AllEpisodeDiag, id = "EpisodeID", code = "DiagCode", map = "charlson_icd10_quan", assign0 = FALSE)
+com <- comorbidity(ID_AllEpisodeDiag, id = "EpisodeID", code = "DiagCode", map = "charlson_icd10_quan", assign0 = FALSE)
 charlson <- cbind(com, Charlson = score(com, assign0 = FALSE, weights = NULL))
 charlson <- as.data.table(charlson)
 charlson <- charlson[, .(EpisodeID, Charlson)]
