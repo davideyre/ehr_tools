@@ -63,5 +63,6 @@ elixhauser <- elixhauser[, .(new_id, Elixhauser)]
 EpisodeID_Comorbidity <- charlson[ID_AllEpisodeDiag, on = "new_id"]
 EpisodeID_Comorbidity <- elixhauser[EpisodeID_Comorbidity, on = "new_id"]
 EpisodeID_Comorbidity <- EpisodeID_Comorbidity[, .(EpisodeID, Charlson, Elixhauser)]
+EpisodeID_Comorbidity <- unique(EpisodeID_Comorbidity, by = "EpisodeID")
 
 fwrite(EpisodeID_Comorbidity, file = "~/Data/Sepsis/EpisodeID_Comorbidity.csv")
