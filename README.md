@@ -11,3 +11,4 @@ Look-up tables
 1. Local subspecialties - specialty codes matched to specialties matched to specialty groups [local_subspecialties_lookup.csv](local_subspecialties_lookup.csv)
 2. ICD-10 codes for primary diagnosis (needing revisions and confirmation for your own projects)
 3. ICD-10 codes to CCS codes - for identifying possible sources of infection [ccs_lookup.csv](ccs_lookup.csv)
+4. ICD-10 codes to CCS codes [UPDATED SEP 2022] - vs. ccs_lookup.csv, this version deals with cases where ICD10 mapping to >1 CCSR code results in conflicting labels for "bacterial infection" and "source" [ccsr_lookup_v20220909.csv](ccsr_lookup_v20220909.csv)
