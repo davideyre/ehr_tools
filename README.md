@@ -5,6 +5,7 @@ Contents
 1. Bug grouper - a script for grouping common bacterial pathogens [bug_grouper.R](bug_grouper.R)
 2. EHR measurement limits in adults - a list of values deemed to extreme to be compatible with an actual measurement, recommended that these are set to missing in analyses [EHR Measurement Limits - Adults.xlsx](EHR%20Measurement%20Limits%20-%20Adults.xlsx)
 3. Calculate Comorbidity Index - a script for calculating Charlson and Elixhauser scores using diagnostic codes from 1-year lookback [Calculate Comorbidity Index.R](Calculate%20Comorbidity%20Index.R)
+4. NEWS2 Score calculation - used in UK hospitals for detecting deteriorating patients based on observations. NOTE: in this version, there is no implementation of the SpO2 scale 2 appropriate for patients with chronic hypercapnic respiratory failure. [news_score.R](news_score.R)
 
 
 Look-up tables
